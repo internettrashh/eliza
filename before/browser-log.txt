@@ -1,0 +1,80 @@
+[desktop] console.error: Loading the image 'http://brand/logos/logo_white_nobg.svg' violates the following Content Security Policy directive: "img-src 'self' data: blob: https://* http://localhost:* http://127.0.0.1:*". The action has been blocked.
+[desktop] console.debug: [vite] connecting...
+[desktop] console.debug: [vite] connected.
+[desktop] console.warning: Capacitor plugin "Agent" already registered. Cannot register plugins twice.
+[desktop] console.info: %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[desktop] console.info: [shell] window shell mode: main (search="")
+[desktop] console.info: {} [startup-coordinator] phase=restoring-session
+[desktop] console.info: {} [startup-coordinator] phase=restoring-session
+[desktop] console.info: {} [startup-coordinator] phase=resolving-target
+[desktop] console.info: {} [startup-coordinator] phase=polling-backend
+[desktop] console.info: {} [startup-coordinator] phase=starting-runtime
+[desktop] console.info: {} [ViewLifecycle] "maps" mounted → active (show)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.info: {} [startup-coordinator] phase=hydrating
+[desktop] console.info: {} [startup-coordinator] phase=ready
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] search form hidden: null
+[desktop] search inputs: 1
+[desktop] request POST /api/views/maps/interact {"capability":"maps-search-places","params":{"query":"cafe","limit":24}}
+[desktop] response 200 {"requestId":"b56aaec4-8d4f-49d1-a4b4-8a3084ecaff6","success":false,"result":{"success":false,"text":"Cloud Maps supports queries up to 300 characters and limits up to 20.","error":{"code":"MAPS_INVALID_INPUT","message":"Cloud Maps supports queries up to 300 characters and limits up to 20."}}}
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[desktop] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Loading the image 'http://brand/logos/logo_white_nobg.svg' violates the following Content Security Policy directive: "img-src 'self' data: blob: https://* http://localhost:* http://127.0.0.1:*". The action has been blocked.
+[mobile] console.debug: [vite] connecting...
+[mobile] console.debug: [vite] connected.
+[mobile] console.warning: Capacitor plugin "Agent" already registered. Cannot register plugins twice.
+[mobile] console.info: %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[mobile] console.info: [shell] window shell mode: main (search="")
+[mobile] console.info: {} [startup-coordinator] phase=restoring-session
+[mobile] console.info: {} [startup-coordinator] phase=restoring-session
+[mobile] console.info: {} [startup-coordinator] phase=resolving-target
+[mobile] console.info: {} [startup-coordinator] phase=polling-backend
+[mobile] console.info: {} [ViewLifecycle] "maps" mounted → active (show)
+[mobile] console.info: {} [startup-coordinator] phase=starting-runtime
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.info: {} [startup-coordinator] phase=hydrating
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.info: {} [startup-coordinator] phase=ready
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[mobile] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] search form hidden: null
+[mobile] search inputs: 1
+[mobile] request POST /api/views/maps/interact {"capability":"maps-search-places","params":{"query":"cafe","limit":24}}
+[mobile] response 200 {"requestId":"dd8c4031-ca74-42c3-bfd5-8ee89a55e14d","success":false,"result":{"success":false,"text":"Cloud Maps supports queries up to 300 characters and limits up to 20.","error":{"code":"MAPS_INVALID_INPUT","message":"Cloud Maps supports queries up to 300 characters and limits up to 20."}}}
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)
+[mobile] console.error: Failed to load resource: the server responded with a status of 404 (Not Found)

@@ -1,0 +1,6 @@
+     × sends a result limit that Cloud accepts 3ms
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+ FAIL  test/cloud-maps.test.ts > Maps view search > sends a result limit that Cloud accepts
+Error: Cloud Maps supports queries up to 300 characters and limits up to 20.
+ Test Files  1 failed (1)
+      Tests  1 failed | 29 passed (30)
